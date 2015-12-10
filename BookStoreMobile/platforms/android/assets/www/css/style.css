@@ -1,0 +1,35 @@
+
+.tabs-background-lightroyal .tabs, .tabs-background-lightroyal > .tabs {
+	background-color: #A0ABF3;
+	background-image: linear-gradient(0deg, #0a9ec7, #0a9ec7 50%, transparent 50%);
+	border-color: #0a9ec7;
+}
+.button.button-lightroyal {
+	border-color: #0a9ec7;
+	background-color: #A0ABF3;
+	color: #fff;
+}
+.date{
+	padding:0;
+	width:100%;
+	margin-left: -3px;
+}
+.datetime{
+	text-align:center;
+	font-size:20px;
+}
+.ion-calendar{
+	font-size:26px;
+}
+.ion-ios-time{
+	font-size:26px;
+}
+.button.button-dark.button-outline {
+    background: rgba(0, 0, 0, 0.08);
+	border-color:white;
+}
+.price{
+	font-size:19px;
+	text-align:center;
+}
+
